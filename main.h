@@ -15,7 +15,7 @@ typedef struct specifiers
 {
 	char specifiers;
 	int (*f)(va_list);
-}specifiers_t;
+} specifiers_t;
 
 /*prototypes*/
 
